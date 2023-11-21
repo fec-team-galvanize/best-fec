@@ -38,3 +38,7 @@ It uses vite as the module bundler and dotenv for configuration. It's organized 
 
 - `npm run dev` - Runs the server in watch mode.
 - `npm run start` - Starts the server (mainly used when deploying).
+
+## Deployment
+
+Deploy your frontend as a static site and your backend as a web service on Render. Figure out the details, I don't have time to explain right now.
